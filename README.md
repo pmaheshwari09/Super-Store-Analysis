@@ -19,7 +19,6 @@ Analyse sales data and determine weak areas and opportunities to boost business 
 - Which Customer Segment is Most Profitable?
 - Which is the Preferred Ship Mode?
 - Which Region is the Most Profitable?
-- Which City has the Highest Number of Sales?
 
 #### Tools
 Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
