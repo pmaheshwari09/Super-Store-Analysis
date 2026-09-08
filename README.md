@@ -1,5 +1,5 @@
 # The Sparks Foundation
-## Data Science and Business Analytics Internship
+## Data Science and Business Analytics
 ### Exploratory Data Analysis On Super Store
 
 ![image](https://user-images.githubusercontent.com/81607668/127727120-a11f32fa-3042-4773-b54e-fd1a792fff2f.png)
